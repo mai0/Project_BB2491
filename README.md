@@ -1,7 +1,7 @@
 # Project_BB2491
-Assembling and annotating the Norway spruce chloroplast genome
+## **Assembling and annotating the Norway spruce chloroplast genome**
 
-Goals
+*Goals*
 You will assemble contigs from the data your are given (see below), extract the chloroplast
 contigs, and the annotate the chloroplast genome model. I would like to see:
   - A GenBank file containing a genome model and gene annotation.
